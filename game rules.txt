@@ -1,0 +1,24 @@
+Catch The Basketball        
+
+game rules:
+
+1. Catch the blue basketball with the blue basket score +10.
+
+2. Catch the red basketball with the red basket score +10.
+
+3. Catch the blue basketball with the red basket score -5.
+
+4. Catch the red basketball with the blue basket score -5.
+
+5. Game is over when you miss 5 basketballs.
+
+key pressings:
+
+1. Press 'A' to move the red basket left.
+
+2. Press 'D' to move the red basket right.
+
+3. Press Keyleft to move the blue basket left.
+
+4. Press KeyRight to move the red basket right.
+
